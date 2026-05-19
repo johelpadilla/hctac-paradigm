@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+numpy
+scipy
+pandas
+seaborn
+matplotlib
+h5py
